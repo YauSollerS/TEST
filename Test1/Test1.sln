@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question 2.4", "Question 2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question 2.6", "Question 2.6\Question 2.6.csproj", "{18FF57CC-25C2-4D69-A025-6B0675CB8EA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question 2.7", "Question 2.7\Question 2.7.csproj", "{3D57997F-7C7F-4FF5-B775-9686E1228FDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Search Tree", "Question 2.7\Binary Search Tree.csproj", "{3D57997F-7C7F-4FF5-B775-9686E1228FDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
