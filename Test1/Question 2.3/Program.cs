@@ -18,7 +18,8 @@ namespace Question_2._3
             float y=IterMult(a, b);
             timer.Stop();
             Console.WriteLine(y);
-            Console.WriteLine("Iteration time {0} ms", timer.ElapsedMilliseconds);
+            Console.WriteLine("Iteration time {0} ms", timer.ElapsedMilliseconds);
+
         }
         private static float IterMult(float x, int n)
         {

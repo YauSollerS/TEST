@@ -10,7 +10,8 @@ namespace Question_2._2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Output Integers");
+            Console.WriteLine("Output Integers");
+
             Q2Integers(13);
             
         }
